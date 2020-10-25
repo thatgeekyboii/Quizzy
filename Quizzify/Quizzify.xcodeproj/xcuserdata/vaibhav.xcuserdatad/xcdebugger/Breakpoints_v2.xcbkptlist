@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "89FAE5C1-90BF-4F13-9F9F-07F6E577707C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AAF709D-0091-4A28-8352-EF683AEFD541"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzify/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0AAF709D-0091-4A28-8352-EF683AEFD541 - 2d7da24aa61ae204"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzify.ViewController.progressBar.getter : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Quizzify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/Desktop/ios%20apps/Quizzify/Quizzify/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0AAF709D-0091-4A28-8352-EF683AEFD541 - 3d1256b06abefa18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzify.ViewController.progressBar.setter : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Quizzify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/Desktop/ios%20apps/Quizzify/Quizzify/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "0AAF709D-0091-4A28-8352-EF683AEFD541 - 978cd14914e8ce85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzify.ViewController.progressBar.modify : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Quizzify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/Desktop/ios%20apps/Quizzify/Quizzify/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "0AAF709D-0091-4A28-8352-EF683AEFD541 - 8f1cd94e49e4625a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzify.ViewController.progressBar.modify : Swift.Optional&lt;__C.UIProgressView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Quizzify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/Desktop/ios%20apps/Quizzify/Quizzify/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "0AAF709D-0091-4A28-8352-EF683AEFD541 - dc1a05974880e37c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzify.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Quizzify.ViewController"
+                  moduleName = "Quizzify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/Desktop/ios%20apps/Quizzify/Quizzify/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "0AAF709D-0091-4A28-8352-EF683AEFD541 - 829210fbf778f446"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzify.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Quizzify.ViewController&gt;"
+                  moduleName = "Quizzify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/Desktop/ios%20apps/Quizzify/Quizzify/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "357">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
